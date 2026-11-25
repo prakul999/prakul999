@@ -19,7 +19,7 @@ Aspiring Software Developer · Python & Java · Full-Stack Web Projects
 
 I'm a **BBA (Computer Applications) student at Ness Wadia College of Commerce, Pune**, building practical projects while strengthening my programming and software engineering foundations.
 
-I enjoy connecting the pieces of an application: the interface people use, the APIs behind it, and the database that keeps everything organised. My projects explore event management, tourism, and how technology can help organisations use resources more thoughtfully.
+I enjoy connecting the pieces of an application: the interface people use, the APIs behind it, and the database that keeps everything organised. My projects explore event management, tourism, small-business operations, and how technology can help organisations use resources more thoughtfully.
 
 - **Career interests:** Entry-level software development, web development, and technical support.
 - **Core programming:** Python, Java, JavaScript, HTML, and CSS.
@@ -59,7 +59,20 @@ A full-stack tourism project focused on guide discovery and booking workflows.
 
 > **Let's talk product:** How should traveller and guide workflows differ while sharing the same booking data?
 
-### 03 / AURA — Project Concept
+### 03 / Parlour Pro Management
+**Bringing everyday salon operations into one application.**
+
+A management application built to organise the day-to-day work of a beauty parlour.
+
+- Manages customers, services, appointments, and staff.
+- Integrates Firebase for authentication and cloud data management.
+- Provides a user-friendly interface for routine parlour operations.
+
+**Built with:** Flutter · Dart · Firebase
+
+> **Let's talk workflows:** How should customer records, appointments, services, and staff fit together in a useful management application?
+
+### 04 / AURA — Project Concept
 **Making resource usage visible to support greener decisions.**
 
 A concept for bringing computer monitoring, cost analytics, and environmental insights into one platform, helping organisations understand how they use computing resources.
@@ -68,6 +81,15 @@ A concept for bringing computer monitoring, cost analytics, and environmental in
 **Project stage:** Concept and presentation; exploring the product and business model.
 
 <sub>Project source repositories are currently private. Project walkthroughs can be discussed during interviews.</sub>
+
+## 🎯 The business problem behind the code
+
+| Project | Problem it addresses | Main focus |
+| :--- | :--- | :--- |
+| SmartFest | Coordinating event bookings and admission | Reservations, waitlists, payments, and digital passes |
+| Motherland Tourism | Connecting travellers with local guides | Discovery, profiles, and booking workflows |
+| Parlour Pro Management | Organising daily parlour operations | Customers, services, appointments, and staff |
+| AURA — concept | Understanding computing resource usage | Monitoring, cost visibility, and environmental insights |
 
 ## 🧰 My toolkit
 
@@ -79,6 +101,9 @@ A concept for bringing computer monitoring, cost analytics, and environmental in
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square" alt="CSS3">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 
@@ -86,6 +111,7 @@ A concept for bringing computer monitoring, cost analytics, and environmental in
 | :--- | :--- |
 | Programming foundations | Python, Java, object-oriented programming, exception handling, file handling |
 | Web interfaces | HTML, CSS, JavaScript, React, Tailwind CSS |
+| Mobile application project | Flutter, Dart, Firebase authentication and cloud data |
 | Backend project experience | FastAPI, Flask, REST APIs, SQLAlchemy |
 | Data & application workflows | PostgreSQL, relational models, bookings, role-based access |
 | Development & deployment | Git, GitHub, Vercel, Render |
@@ -95,6 +121,7 @@ A concept for bringing computer monitoring, cost analytics, and environmental in
 - **Application design:** How SmartFest connects the frontend, API, and database.
 - **Data consistency:** Seat reservations, transaction boundaries, and waitlist handling.
 - **User journeys:** Designing different workflows for participants, organisers, travellers, and guides.
+- **Business applications:** Connecting customer, appointment, service, and staff workflows in Parlour Pro Management.
 - **Troubleshooting:** Tracing a problem from what the user sees to the request and data behind it.
 - **Product thinking:** Connecting AURA's resource-monitoring concept with cost and sustainability goals.
 
