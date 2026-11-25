@@ -5,7 +5,7 @@
 
 **Turning everyday problems into useful software.**
 
-Aspiring Software Developer · Python & Java · Full-Stack Web Projects
+Aspiring DevOps Engineer · Cloud Engineer · Software Developer
 
 <a href="https://smart-fest-navy.vercel.app/"><img src="https://img.shields.io/badge/Explore-SmartFest-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore SmartFest"></a>
 
@@ -21,7 +21,7 @@ I'm a **BBA (Computer Applications) student at Ness Wadia College of Commerce, P
 
 I enjoy connecting the pieces of an application: the interface people use, the APIs behind it, and the database that keeps everything organised. My projects explore event management, tourism, small-business operations, and how technology can help organisations use resources more thoughtfully.
 
-- **Career interests:** Entry-level software development, web development, and technical support.
+- **Career interests:** DevOps, Cloud Engineering, and Software Development.
 - **Core programming:** Python, Java, JavaScript, HTML, and CSS.
 - **Learning focus:** Backend design, database transactions, authentication, and systematic troubleshooting.
 - **What motivates me:** Understanding a real problem and building something people can actually use.
@@ -127,7 +127,7 @@ A concept for bringing computer monitoring, cost analytics, and environmental in
 
 ## 🤝 Let's connect
 
-I'm interested in **internships and entry-level opportunities** where I can contribute, learn from experienced developers, and grow through practical work.
+I'm interested in **internships and entry-level opportunities in DevOps, Cloud Engineering, and Software Development**, where I can contribute, learn from experienced engineers, and grow through practical work.
 
 **GitHub:** [@prakul999](https://github.com/prakul999)
 
